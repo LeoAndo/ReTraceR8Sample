@@ -4,6 +4,9 @@ Sample to retrace R8 encrypted project
 # Overview
 Describes how to retrace encrypted(by R8) crash logs.
 
+In version [2.4.0-alpha02](https://developer.android.com/jetpack/androidx/releases/navigation?hl=ja#2.4.0-alpha02) of androidX Navigation, I get a Proguard error in [NavArgsLazy](https://developer.android.com/reference/kotlin/androidx/navigation/NavArgsLazy).<br>
+Using this bug, this project will explain how to use retrace.<br>
+
 # Development environment
 <img width="646" alt="スクリーンショット 2021-06-14 13 38 53" src="https://user-images.githubusercontent.com/16476224/122934038-21ce4780-d3aa-11eb-99d5-6246cd0dfb39.png">
 
