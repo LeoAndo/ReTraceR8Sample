@@ -1,0 +1,2 @@
+rootProject.name = "ReTraceR8Sample"
+include ':app'
