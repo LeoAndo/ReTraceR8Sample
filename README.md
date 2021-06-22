@@ -41,3 +41,6 @@ Using this bug, this project will explain how to use retrace.<br>
 <img width="1293" alt="5" src="https://user-images.githubusercontent.com/16476224/122935756-905fd500-d3ab-11eb-8aa1-313a37e9b775.png">
 8. analyze bug code.
 <img width="1313" alt="6" src="https://user-images.githubusercontent.com/16476224/122935832-9f468780-d3ab-11eb-8d4b-bf93c1c6c55b.png">
+
+# Bug Fix (R8)
+https://github.com/LeoAndo/ReTraceR8Sample/pull/1
