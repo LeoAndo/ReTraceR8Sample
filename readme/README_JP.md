@@ -33,7 +33,7 @@ Sample to retrace R8 encrypted project
 4. Logcatからクラッシュ時のstacktraceをコピーする
 <img width="1298" alt="1" src="https://user-images.githubusercontent.com/16476224/122935248-27785d00-d3ab-11eb-89a3-8d6e75377460.png">
 <img width="1297" alt="2" src="https://user-images.githubusercontent.com/16476224/122935261-2a734d80-d3ab-11eb-8f3a-39d111dccd77.png">
-5. 手順４でコピーしたテキストをテキストファイルにコピーする。(今回の例では`stacktrace.txt`)
+5. 手順４でコピーしたテキストをテキストファイルにペーストする。(今回の例では`stacktrace.txt`)
 <img width="1306" alt="3" src="https://user-images.githubusercontent.com/16476224/122935459-5098ed80-d3ab-11eb-8a37-3b04212f470f.png">
 6. retraceツールを実行する
 <img width="1273" alt="4" src="https://user-images.githubusercontent.com/16476224/122935413-47a81c00-d3ab-11eb-9ba9-6d0eb5903781.png">
