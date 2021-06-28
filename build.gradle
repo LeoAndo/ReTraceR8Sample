@@ -1,8 +1,8 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
 buildscript {
     ext.kotlin_version = "1.5.10"
-    // ext.navigation_version = "2.3.5" // R8 OK stable version!
-    ext.navigation_version = "2.4.0-alpha02" // R8 NG version!
+    ext.navigation_version = "2.3.5" // R8 OK stable version!
+    // ext.navigation_version = "2.4.0-alpha02" // R8 NG version!
     repositories {
         google()
         mavenCentral()
